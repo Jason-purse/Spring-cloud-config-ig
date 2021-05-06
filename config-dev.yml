@@ -1,4 +1,5 @@
 config:
-    name: hello-world-dev
-    environment: dev
-    version: 1
+  name: hello-world-dev
+  environment: dev
+  version: 3
+  value: 1233333

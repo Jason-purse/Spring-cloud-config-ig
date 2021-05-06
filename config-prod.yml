@@ -1,4 +1,4 @@
 config:
-  name: hello-world
+  name: hello-world-dev
   environment: prod
   version: 1
