@@ -1,4 +1,4 @@
 config:
   name: hello-world
   environment: dev
-  version: 20
+  version: 30
